@@ -1,22 +1,3 @@
-#+TITLE: 南華真經章句音義 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:31:35.780560
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0129_000.txt][南華真經章句音義 0]]
- - [[file:KR5c0129_001.txt][南華真經章句音義 1]]
- - [[file:KR5c0129_002.txt][南華真經章句音義 2]]
- - [[file:KR5c0129_003.txt][南華真經章句音義 3]]
- - [[file:KR5c0129_004.txt][南華真經章句音義 4]]
- - [[file:KR5c0129_005.txt][南華真經章句音義 5]]
- - [[file:KR5c0129_006.txt][南華真經章句音義 6]]
- - [[file:KR5c0129_007.txt][南華真經章句音義 7]]
- - [[file:KR5c0129_008.txt][南華真經章句音義 8]]
- - [[file:KR5c0129_009.txt][南華真經章句音義 9]]
- - [[file:KR5c0129_010.txt][南華真經章句音義 10]]
- - [[file:KR5c0129_011.txt][南華真經章句音義 11]]
- - [[file:KR5c0129_012.txt][南華真經章句音義 12]]
- - [[file:KR5c0129_013.txt][南華真經章句音義 13]]
- - [[file:KR5c0129_014.txt][南華真經章句音義 14]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
